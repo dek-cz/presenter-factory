@@ -1,5 +1,5 @@
 {
-	"name": "librette/presenter-factory",
+	"name": "dek-cz/presenter-factory",
 	"keywords": ["nette", "librette", "application", "presenter factory"],
 	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
 	"authors": [
@@ -9,10 +9,10 @@
 		}
 	],
 	"require": {
-		"php": ">7.0",
-		"nette/application": "~3.0",
-		"nette/di": "~3.0",
-		"nette/utils": "~3.0"
+		"php": "^8.2",
+		"nette/application": "^3.0",
+		"nette/di": "^3.0",
+		"nette/utils": "^4.0"
 	},
 	"require-dev": {
 		"nette/bootstrap": "~3.0",
